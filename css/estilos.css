@@ -1,5 +1,5 @@
 :root {
-  --cinza: #a36666;
+  --cinza: #858181;
   --vermelha: #e93d50;
   --vermelha-escura: #af303f;
   --branca: #fff;
@@ -8,13 +8,12 @@
 
 body {
   align-items: center;
-  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftornadotoninho%2F&psig=AOvVaw3aoOBLPLe6o3tSfDwgMkZZ&ust=1699666149750000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjKyvmjuIIDFQAAAAAdAAAAABAE);
+  background-image: url(https://i.pinimg.com/736x/03/11/87/0311878130e61ed076f3b5f5f7d7b4f9.jpg);
   background-size:1080px 720px;
   background-repeat:no-repeat;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  justify-content: center;
   font-family: 'Montserrat', sans-serif;
   min-height: 100vh;
 }
@@ -26,7 +25,7 @@ h1 {
 }
 
 .teclado {
-  background: linear-gradient(to bottom, #680000 0%,#cccccc 100%);
+  background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
   box-shadow: 6px 8px 0 6px #666, 10px 10px 10px #000;
   border-radius: 30px;
   display: grid;
